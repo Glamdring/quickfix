@@ -1,0 +1,4 @@
+Premain-Class: bg.bozho.quickfix.MethodBodyReplacementAgent
+Agent-Class: bg.bozho.quickfix.MethodBodyReplacementAgent 
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
