@@ -10,13 +10,7 @@
             <artifactId>javassist</artifactId>
             <version>3.17.1-GA</version>
         </dependency>
-        <dependency>
-            <groupId>org.reflections</groupId>
-            <artifactId>reflections</artifactId>
-            <version>0.9.8</version>
-        </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
